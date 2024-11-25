@@ -12,3 +12,4 @@ Rows/Columns	                  Uses labels	                            Uses posi
 End-Point in Slices	              Included	                                Excluded
 Data Type	                      Labels (strings, etc.) or booleans	    Integers or slices
 Use Case	                      When working with labeled indices      	When working with positional indices
+![Screenshot (1092)](https://github.com/user-attachments/assets/ce47b031-24d0-4d63-bb82-2cfe2873a8a9)
