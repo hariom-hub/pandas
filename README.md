@@ -16,5 +16,7 @@ Note
 # Using String I/O in python(pandas) to read csv,excel,json and multiple type of datasets
 
 **String I/O is used to read string type of data in pandas(python)**
+
 **String I/O is an in-memory file object that contains a lot of data**
+
 *CSV = COMMA SEPARATED VALUES*
