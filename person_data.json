@@ -1,0 +1,50 @@
+[
+    {
+        "name": "Alice Johnson",
+        "age": 28,
+        "height": 165,
+        "job": "Software Engineer"
+    },
+    {
+        "name": "Bob Smith",
+        "age": 34,
+        "height": 175,
+        "job": "Data Scientist"
+    },
+    {
+        "name": "Charlie Brown",
+        "age": 30,
+        "height": 180,
+        "job": "Marketing Manager"
+    },
+    {
+        "name": "Diana Prince",
+        "age": 26,
+        "height": 160,
+        "job": "Graphic Designer"
+    },
+    {
+        "name": "Ethan Clark",
+        "age": 40,
+        "height": 170,
+        "job": "Project Manager"
+    },
+    {
+        "name": "Fiona Davis",
+        "age": 22,
+        "height": 155,
+        "job": "Content Writer"
+    },
+    {
+        "name": "George Wilson",
+        "age": 29,
+        "height": 178,
+        "job": "Civil Engineer"
+    },
+    {
+        "name": "Hannah Lee",
+        "age": 33,
+        "height": 168,
+        "job": "Accountant"
+    }
+]

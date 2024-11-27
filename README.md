@@ -20,3 +20,6 @@ Note
 **String I/O is an in-memory file object that contains a lot of data**
 
 *CSV = COMMA SEPARATED VALUES*
+
+***Working with json data in pandas***
+
